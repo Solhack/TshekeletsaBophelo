@@ -20,13 +20,13 @@
   "dependencies": {
     "@adonisjs/ace": "^6.0.0",
     "@adonisjs/auth": "^3.0.5",
-    "@adonisjs/bodyparser": "^2.0.3",
+    "@adonisjs/bodyparser": "^4.0.5",
     "@adonisjs/cors": "^1.0.6",
-    "@adonisjs/fold": "^4.0.8",
+    "@adonisjs/fold": "^5.0.1",
     "@adonisjs/framework": "^5.0.7",
     "@adonisjs/ignitor": "^2.0.6",
-    "@adonisjs/lucid": "^7.2.1",
-    "@adonisjs/session": "^1.0.25",
+    "@adonisjs/lucid": "^12.0.0",
+    "@adonisjs/session": "^2.2.0",
     "@adonisjs/shield": "^1.0.6",
     "snyk": "^1.262.2"
   },
